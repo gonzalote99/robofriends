@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('https://raw.githubusercontent.com/RajVarsani/html-archives/main/projects/Robofriends/src/Containers/SEGA.woff') format('woff');
+}
+
+h1 {
+font-family: 'SEGA LOGO FONT';
+font-weight: bold;
+color: #7de0bd;
+}
